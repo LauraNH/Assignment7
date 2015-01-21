@@ -3,7 +3,7 @@
 	<head>
 		<style>
 		
-		body.a {
+		.a {
 			background:darkblue;
 		}
 		</style>
