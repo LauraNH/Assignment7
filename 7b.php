@@ -3,7 +3,7 @@
 	<head>
 		<style>
 		
-		body.b {
+		.b {
 			background:red;
 		}
 		</style>
